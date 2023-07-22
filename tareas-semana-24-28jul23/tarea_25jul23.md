@@ -12,7 +12,7 @@
 
 ## Práctica
 
-1. Realice el ejercicio [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=false) del portal [HackerRank](https://www.hackerrank.com/dashboard).
+1. Realice el ejercicio [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=false) del portal [HackerRank](https://www.hackerrank.com/dashboard).
 2. Haga los primeros `5 ejercicios` de los apartados de [c](https://www.hackerrank.com/domains/c), [c++](https://www.hackerrank.com/domains/cpp), [java](https://www.hackerrank.com/domains/java), [python](https://www.hackerrank.com/domains/python), [Ruby](https://www.hackerrank.com/domains/ruby), [SQL](https://www.hackerrank.com/domains/sql), [Linux shell](https://www.hackerrank.com/domains/shell), del portal [HackerRank](https://www.hackerrank.com/dashboard).
 3. Termine los retos plasmados en  los ejercicios del `1` al `69` de [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), del apartado `Learn HTML by Building a Cat Photo App` del portal [freeCodeCamp](https://www.freecodecamp.org/learn/).
 4. Termine los retos plasmados en  los ejercicios del `1` al `91` de [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), del apartado `Learn Basic CSS by Building a Cafe Menu` del portal [freeCodeCamp](https://www.freecodecamp.org/learn/).
