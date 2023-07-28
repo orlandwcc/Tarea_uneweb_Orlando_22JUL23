@@ -2,8 +2,8 @@
 
 ## teórica
 
-1. Vea el video de [Las Matemáticas tienen una Terrible Falla](https://youtu.be/RRg38oNQ9vk) del canal [Veritasium en español](https://www.youtube.com/@VeritasiumES), y diga qué opina del video y las implicaciones históricas que han tenido las matemáticas en las ciencias de la computación.
-2. Lea el artículo llamado [3 Web Dev Careers Decoded: Front-End vs Back-End vs Full Stack](https://www.udacity.com/blog/2020/12/front-end-vs-back-end-vs-full-stack-web-developers.html), y comente en clases qué le ha parecido el papel que cumplen las tres carreras de desarrollo web.
+1. Vea el video de [Las Matemáticas tienen una Terrible Falla](https://youtu.be/RRg38oNQ9vk) del canal [Veritasium en español](https://www.youtube.com/@VeritasiumES), y diga qué opina del video y las implicaciones históricas que han tenido las matemáticas en las ciencias de la computación. *(listo)*
+2. Lea el artículo llamado [3 Web Dev Careers Decoded: Front-End vs Back-End vs Full Stack](https://www.udacity.com/blog/2020/12/front-end-vs-back-end-vs-full-stack-web-developers.html), y comente en clases qué le ha parecido el papel que cumplen las tres carreras de desarrollo web. *(listo)*
 3. Lea el artículo del [Facebook’s engineering department](https://www.facebook.com/notes/10158791462547200/), y comente en clases qué le ha parecido el artículo que popularizó el término Full stack developer en el año 2010.
 4. Vea los videos de [Nómadas digitales - El mundo como lugar de trabajo | DW Documental](https://youtu.be/2ejy-1bD2_4) y [Nomadas digitales: Experiencias de un nuevo estilo de vida](https://youtu.be/7RlmKyXvms8) del canal [DW español](https://m.youtube.com/@dwespanol), y diga qué opina del video, qué es para usted un nómada digital y las implicaciones que conlleva ser uno.
 5. Lea el artículo llamado [Why Learning to Code is So Damn Hard By Erik Trautman](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/), y comente en clases qué opina de la lectura y su propia evolución como programador.
@@ -19,7 +19,7 @@
 
 ## Práctica
 
-1. Realice el ejercicio [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=false) del portal [HackerRank](https://www.hackerrank.com/dashboard).
+1. Realice el ejercicio [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=false) del portal [HackerRank](https://www.hackerrank.com/dashboard). *(listo)*
 2. Haga los primeros `5 ejercicios` de los apartados de [c](https://www.hackerrank.com/domains/c), [c++](https://www.hackerrank.com/domains/cpp), [java](https://www.hackerrank.com/domains/java), [python](https://www.hackerrank.com/domains/python), [Ruby](https://www.hackerrank.com/domains/ruby), [SQL](https://www.hackerrank.com/domains/sql), [Linux shell](https://www.hackerrank.com/domains/shell), del portal [HackerRank](https://www.hackerrank.com/dashboard).
 3. Termine los retos plasmados en  los ejercicios del `1` al `69` de [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), del apartado `Learn HTML by Building a Cat Photo App` del portal [freeCodeCamp](https://www.freecodecamp.org/learn/). (listo)
 4. Termine los retos plasmados en  los ejercicios del `1` al `91` de [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), del apartado `Learn Basic CSS by Building a Cafe Menu` del portal [freeCodeCamp](https://www.freecodecamp.org/learn/).
