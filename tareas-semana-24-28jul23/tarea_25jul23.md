@@ -8,7 +8,7 @@
 4. Diga que es el `Focus mode` y el `Diffuse mode` según el proceso de aprendizaje, diga sus diferencias y para que los usa nuestro cerebro. *(listo)*
 5. inscríbete en el programa llamado [Aprendiendo a aprender: herramientas mentales eficaces con las que podrás dominar temas difíciles](https://www.coursera.org/learn/learning-how-to-learn#syllabus), cumpla con sus asignaciones y obtenga el certificado finaliza en 4 semanas.
 6. Escucha el podcast llamado [podcast on How to Learn](https://topenddevs.com/podcasts/ruby-rogues/episodes/131-rr-how-to-learn), y comenta, según el podcast, cómo puedes hacer para aprender.
-7. Qué debo hacer cuando me sienta `atascado en la programación` qué recomiendan los expertos? cite expertos y de ejemplos.
+7. Qué debo hacer cuando me sienta `atascado en la programación` qué recomiendan los expertos? cite expertos y de ejemplos. *(listo)*
 
 ## Práctica
 
